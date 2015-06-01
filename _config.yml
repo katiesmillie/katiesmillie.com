@@ -1,0 +1,12 @@
+# Site settings
+title: Katie Smillie
+email: katiesmillie@gmail.com	
+description: > # this means to ignore newlines until "baseurl:"
+  The personal website of Katie Smillie.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://katiesmillie.com" # the base hostname & protocol for your site
+twitter_username: katiesmillie
+github_username:  katiesmillie
+
+# Build settings
+markdown: kramdown

@@ -111,7 +111,7 @@ The truth is that research can be fast and easy. It’s ok if it’s messy. The 
 Remember, user research is not just usability testing or a one-off project. It’s an ongoing process that should be baked into each stage of product development. Moreover, these stages are cyclical or iterative, rather than linear. This concept is mirrored in other product development strategies such as Steve Blank’s Customer Development Methodology.
 
 <figure>
-<img src ="/assets/images/customer_development_lifecycle.png">
+<img src ="/images/customer_development_lifecycle.png">
 <figcaption>Blank’s Customer Development Insight Cycle</figcaption>
 </figure>
 

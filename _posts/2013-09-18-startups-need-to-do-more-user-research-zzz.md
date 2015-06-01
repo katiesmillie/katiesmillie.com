@@ -1,8 +1,14 @@
+
 ---
 layout: post
 title: "User Research is the Most Important Thing You’re Not Doing"
-date:   2013-09-18 15:26:45
-categories: 
+description: ""
+category: 
+tags: []
+image:
+    feature: user-research.png
+comments: true
+
 ---
 
 User research is one of the most important and yet most overlooked areas of product work in early tech startups today. Based on numerous conversations I've had with startups of a variety of sizes, the majority report doing very little user research, some none at all. The good news is that most admit knowing they should do more, and they want to do more. So why aren’t they? 
@@ -111,7 +117,7 @@ The truth is that research can be fast and easy. It’s ok if it’s messy. The 
 Remember, user research is not just usability testing or a one-off project. It’s an ongoing process that should be baked into each stage of product development. Moreover, these stages are cyclical or iterative, rather than linear. This concept is mirrored in other product development strategies such as Steve Blank’s Customer Development Methodology.
 
 <figure>
-<img src ="/assets/images/customer_development_lifecycle.png">
+<img src ="/images/customer_development_lifecycle.png">
 <figcaption>Blank’s Customer Development Insight Cycle</figcaption>
 </figure>
 
@@ -134,3 +140,5 @@ You can follow me on twitter <a href="http://www.twitter.com/katiesmillie" targe
 <i class="icon-youtube-play"> </i><small> <a href="http://www.youtube.com/watch?v=WpzmOH0hrEM" target="_blank">Quick N Dirty User Research Workshop by Google Ventures </a></small>
 
 <i class="icon-youtube-play"> </i><small> <a href="http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry/2013/7/22/venmo-design-lecture-series-karina-van-schaardenburg" target="_blank">How User Research Methods Can Change to Better Accommate Mobile Products </a></small>
+
+

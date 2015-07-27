@@ -1,8 +1,8 @@
----
-layout: page
-title: Mentoring
-permalink: /mentoring/
----
+<!------->
+<!--layout: page-->
+<!--title: Mentoring-->
+<!--permalink: /mentoring/-->
+<!------->
 
 
 **I am available for chats and longer term mentoring relationships*** when it makes sense. There have been amazing people in my life who have helped me along the way and given me encouragement when I felt stuck. 

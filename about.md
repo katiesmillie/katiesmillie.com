@@ -7,13 +7,15 @@ permalink: /about/
 
 Hi, I'm Katie.
 
-I recently finished attending the <a href="http://sfpc.io/"> School for Poetic Computation </a> and I blogged about my adventures <a href="http://sfpc.katiesmillie.com/">here.</a> 
+I'm currently seeking an internship or an entry level job as a mobile developer.
 
-With the rest of my summer I am teaching myself Swift and loving it so far. I built my first iOS app called <a href="http://twitter.com/helloroundtrip">RoundTrip</a>, which will soon be available in beta via TestFlight. I'm interested in finding a role as a mobile engineer this fall. 
+This summer I've been teaching myself Swift and loving it so far. I built my first iOS app called <a href="http://twitter.com/helloroundtrip">RoundTrip</a>, which will soon be available in the app store. 
+
+In the spring, I attended the <a href="http://sfpc.io/"> School for Poetic Computation </a> and I blogged about my adventures <a href="http://sfpc.katiesmillie.com/">here.</a> 
 
 Aside from coding and art projects I run a lot, I practice yoga, I just started a sci-fi book club, and sometimes, I know <a href="https://instagram.com/p/zUvaxNno4W">my way around a kitchen</a>. 
 
-I have some limited availability for product consulting and user research, so please get in touch!
+I also have some limited availability for product consulting and user research, so please get in touch!
 
 ![me]({{ site.url }}/assets/images/katie_sfpc.png)
 

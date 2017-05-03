@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: page
 title: Writing
 permalink: /writing/
----
+--- -->
 
 On Medium:
 

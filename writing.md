@@ -9,10 +9,6 @@ On Medium:
 - <a target="_blank" href="https://medium.com/@katiesmillie/from-zero-to-swift-in-30-days-8ad97b630e00">From Zero to Swift in 30 days</a>
 - <a target="_blank" href="https://medium.com/@katiesmillie/swift-days-30-to-60-2a3647d9c313">Swift: Days 30 to 60</a>
 
-A blog documenting the miscellaneous things I've learned while making my first iPhone app
-
-- <a target="_blank" href="http://swift.katiesmillie.com/">Learning Swift & iOS</a>
-
 A blog documenting my experience at The School for Poetic Computation
 
 - <a target="_blank" href="http://sfpc.katiesmillie.com/">SFPC</a>
